@@ -1,7 +1,6 @@
 package org.example.Entity;
 
 
-import Organism.Characteristics;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
@@ -25,7 +24,7 @@ public class JsonFile {
 //    }
 
     public static void readJsonFile()  {
-        String path = "src/Parameters/11.json";
+        String path = "Characteristics.json";
 
         Gson gson = new Gson();
         try (FileReader reader = new FileReader(path)) {
