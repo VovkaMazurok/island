@@ -1,0 +1,76 @@
+{
+  "wolf": {
+    "horse": 10,
+    "deer": 15,
+    "rabbit": 60,
+    "mouse": 80,
+    "goat": 60,
+    "sheep": 70,
+    "boar": 15,
+    "buffalo": 10,
+    "duck": 40
+  },
+  "snake": {
+    "fox": 15,
+    "rabbit": 20,
+    "mouse": 40,
+    "duck": 10
+  },
+  "fox": {
+    "rabbit": 70,
+    "mouse": 90,
+    "duck": 60,
+    "caterpillar": 40
+  },
+  "bear": {
+    "snake": 80,
+    "horse": 40,
+    "deer": 80,
+    "rabbit": 80,
+    "mouse": 90,
+    "goat": 70,
+    "sheep": 70,
+    "boar": 50,
+    "buffalo": 20,
+    "duck": 10
+  },
+  "eagle": {
+    "rabbit": 90,
+    "mouse": 90,
+    "duck": 80
+  },
+  "horse": {
+    "dandelion": 100
+  },
+  "deer": {
+    "dandelion": 100
+  },
+  "rabbit": {
+    "dandelion": 100
+  },
+  "mouse": {
+    "caterpillar": 90,
+    "dandelion": 100
+  },
+  "goat": {
+    "dandelion": 100
+  },
+  "sheep": {
+    "dandelion": 100
+  },
+  "boar": {
+    "mouse": 50,
+    "caterpillar": 90,
+    "dandelion": 100
+  },
+  "buffalo": {
+    "dandelion": 100
+  },
+  "duck": {
+    "caterpillar": 90,
+    "dandelion": 100
+  },
+  "caterpillar": {
+    "dandelion": 100
+  }
+}
