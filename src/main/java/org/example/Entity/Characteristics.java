@@ -1,5 +1,7 @@
 package org.example.Entity;
 
+import org.example.Animals.Carnivores.Wolf;
+
 public class Characteristics {
 
 
@@ -7,10 +9,6 @@ public class Characteristics {
     private int maxCount;
     private int speed;
     private double foodNeeded;
-
-    public Characteristics() {
-
-    }
 
 
     public double getWeight() {
